@@ -126,34 +126,34 @@ table {
 	}
 	
 td.vide {
-	height:85px;
+	height:235px;
 	}
 
 /*INDEX*/
 
 div.basket{
-	height:200px;
+	height:500px;
 	background-image: url("fondbasket.jpg");
 	background-size: cover;
 	background-repeat:repeat;
 	}
 
 div.foot{
-	height:200px;
+	height:500px;
 	background-image: url("fondfoot.jpg");
 	background-size: cover;
 	background-repeat:repeat;
 	}
 	
 div.rugby{
-	height:200px;
+	height:500px;
 	background-image: url("fondrugby.jpg");
 	background-size: cover;
 	background-repeat:repeat;
 	}
 	
 div.hand{
-	height:200px;
+	height:500px;
 	background-image: url("fondhand.jpg");
 	background-size: cover;
 	background-repeat:repeat;
