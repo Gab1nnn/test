@@ -1,0 +1,211 @@
+/*GENERAL*/
+
+*{
+margin: 0;
+padding: 0;
+}
+
+h1.titre {
+	text-align: center;
+	font-size: 70px;
+	color: white;
+	font-family:Sans-serif;
+	font-weight: bold;
+	}
+	
+img.logo {
+	width: 90px;
+	}
+
+
+
+div.h1 {
+	background-color: black;
+	height: 90px;
+	}
+
+h1 {
+	text-align: center;
+	font-size: 70px;
+	font-family: Sans-serif;
+	font-weight: bold;
+	}
+
+p { 
+	text-align: center;
+	font-size: 30px;
+	font-family: Sans-serif;
+	font-weight: bold;
+	}
+
+
+
+table.titre {
+	margin :auto;
+	}
+
+table.menu {
+	margin :auto;
+	}
+
+td.menu {
+	text-align: center;
+	font-size: 30px;
+	font-family: Sans-serif;
+	font-weight: bold;
+	}
+
+a.titre:link{color: white;
+			 text-decoration: none;}
+a.titre:visited{color: white;
+				text-decoration: none;}
+
+a.menu:link{color: white;}
+a.menu:visited{color: white;}
+
+a:link{color: black;}
+a:visited{color: black;}
+
+table.match {
+	margin :auto;
+	}
+
+img.equipe {
+	width: 50px;
+	}
+
+table.draft {
+	margin :auto;
+	}
+	
+table.rank {
+	margin :auto;
+	}
+	
+p.victoire {
+	font-size: 25px;
+	font-style: normal;
+	text-align: center;
+	color: green;
+	font-family: Sans-serif;
+	font-weight: bold;}
+	
+p.defaite {
+	font-size: 25px;
+	font-style: normal;
+	text-align: center;
+	color: red;
+	font-family: Sans-serif;
+	font-weight: bold;}
+	
+p.actus { 
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	font-family: Sans-serif;
+	font-weight: bold;
+	}
+
+img.actus {
+	width: 500px;
+	}
+
+table.actus {
+	margin :auto;
+	}
+
+/*INDEX*/
+
+div.basket{
+	height:300px;
+	background-color:black;
+	}
+
+/*BASKET*/
+	
+div.matchbasket {
+	background-color: FloralWhite;
+	}
+	
+div.actusbasket {
+	background-color:FloralWhite;
+	}
+
+div.draftbasket {
+	background-color: FloralWhite;
+	}
+
+div.rankbasket {
+	background-color: FloralWhite;
+	}
+	
+div.videbasket {
+	background-color: FloralWhite;
+	height: 300px
+	}
+
+
+div.bodybasket {
+	background-image: url("fond.png");
+	background-size: cover;
+	background-repeat:repeat;
+	}
+
+	
+td.matchbasket {
+	border: 5px solid chocolate;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	font-family: Sans-serif;
+	font-weight: bold; }
+
+	
+td.draftbasket {
+	border: 5px solid chocolate;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	font-family: Sans-serif;
+	font-weight: bold; }
+	
+	
+td.rankbasket {
+	border: 5px solid chocolate;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	font-family: Sans-serif;
+	font-weight: bold; }
+
+td.equipebasket{
+	border: 5px solid chocolate;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	font-family: Sans-serif;
+	font-weight: bold;
+}
+
+	
+td.actusbasket {
+	border: 10px solid chocolate;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	font-family: Sans-serif;
+	font-weight: bold; }
