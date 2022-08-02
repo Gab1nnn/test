@@ -282,6 +282,10 @@ body.foot {
 	background-color: navy;
 	}
 
+div.menufoot {
+	background-color: navy;
+	}
+
 div.matchfoot {
 	background-color: navy;
 	}
@@ -310,6 +314,17 @@ div.bodyfoot {
 	}
 
 td.matchfoot {
+	border: 5px solid YellowGreen;
+	background-color: black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	font-family: Sans-serif;
+	font-weight: bold; }
+	
+td.menufoot {
 	border: 5px solid YellowGreen;
 	background-color: black;
 	margin-left: auto;
@@ -366,3 +381,18 @@ td.actusfoot {
 	color: white;
 	font-family: Sans-serif;
 	font-weight: bold; }
+	
+td.liguefoot {
+	border: 5px solid YellowGreen;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 30px;
+	font-family: Sans-serif;
+	font-weight: bold;
+	height: 300px; }
+	
+img.liguefoot {
+	width: 300px;
+	}
