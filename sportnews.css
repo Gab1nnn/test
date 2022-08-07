@@ -117,6 +117,10 @@ img.actus {
 	width: 500px;
 	}
 
+img.match {
+	width: 100px;
+	}
+
 table.actus {
 	margin :auto;
 	}
@@ -315,12 +319,12 @@ div.bodyfoot {
 
 td.matchfoot {
 	border: 5px solid YellowGreen;
-	background-color: black;
+	background-color: white;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
 	font-size: 30px;
-	color: white;
+	color: black;
 	font-family: Sans-serif;
 	font-weight: bold; }
 	
